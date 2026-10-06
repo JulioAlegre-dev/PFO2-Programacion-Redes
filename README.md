@@ -1,6 +1,8 @@
 # Práctica Formativa Obligatoria 2 (PFO 2) - Programación sobre Redes
 ## Sistema de Gestión de Tareas con API REST y Persistencia en SQLite
 
+**Repositorio del proyecto:** [https://github.com/JulioAlegre-dev/PFO2-Programacion-Redes](https://github.com/JulioAlegre-dev/PFO2-Programacion-Redes)
+
 ### Descripción del Proyecto
 Implementación de una arquitectura cliente-servidor basada en una API REST construida con Flask y persistencia local en SQLite. El servidor gestiona el registro seguro de usuarios aplicando algoritmos criptográficos de hasheo con salt para proteger las contraseñas, valida el inicio de sesión y sirve contenido HTML de bienvenida. La interacción se realiza mediante un cliente de consola interactivo desarrollado en Python.
 
